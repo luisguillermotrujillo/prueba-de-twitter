@@ -13,15 +13,13 @@ div .historia{
     display:flex;
     flex-wrap: wrap;
     align-items:center;
-}
-.contenedor{
-    background-color: aliceblue;
-}
-.historia{
     border-radius: 70%;
     width: 90px;
     height: 90px;
     margin:15px 15px ;
+}
+.contenedor{
+    background-color: aliceblue;
 }
 main{
     width: 400px;
@@ -36,23 +34,8 @@ div .comandantes{
     display: flex;
     align-items: center;
 }
-/* div .marcos{
-    display: flex;
-    align-items: center;
+div .pablito p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
 }
-div .stalin{
-    display: flex;
-    align-items: center;
-}
-div .pablito{
-    display: flex;
-    align-items: center;
-} */
-h2{
-    display: inline-block;
-}
-.patron{
-    display:block;
-}
-
 
