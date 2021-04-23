@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    background-color: dodgerblue;
+}
+div .historia{
+    display:flex;
+    flex-wrap: wrap;
+    align-items:center;
+}
+.contenedor{
+    background-color: aliceblue;
+}
+.historia{
+    border-radius: 70%;
+    width: 90px;
+    height: 90px;
+    margin:15px 15px ;
+}
+main{
+    width: 400px;
+    height: 570px;
+}
+.display-flex{
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+}
+div .comandantes{
+    display: flex;
+    align-items: center;
+}
+/* div .marcos{
+    display: flex;
+    align-items: center;
+}
+div .stalin{
+    display: flex;
+    align-items: center;
+}
+div .pablito{
+    display: flex;
+    align-items: center;
+} */
+h2{
+    display: inline-block;
+}
+.patron{
+    display:block;
+}
+
+
